@@ -5,6 +5,7 @@
   margin-left: 18px;
   text-decoration: none;
   transition: 0.5s ease-out;
+  color: white;
 }
 
 .header__lang-link:hover {
