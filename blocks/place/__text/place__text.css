@@ -1,9 +1,9 @@
-.place__paragraphs {
+.place__text {
   display: block;
 }
 
 @media screen and (max-width: 740px) {
-  .place__paragraphs {
+  .place__text {
     width: 288px;
     margin: 0 auto;
   }
