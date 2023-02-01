@@ -3,7 +3,6 @@
   width: calc(100% - 296px);
   margin: auto;
   margin-top: 92px;
-
 }
 
 @media screen and (max-width: 1024px) {
@@ -16,7 +15,7 @@
   .places {
     width: calc(100% - 2*24px);
     margin-top: 88px;
-
+    padding-bottom: 0;
   }
 }
 
