@@ -16,6 +16,7 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+@import url(../blocks/lead/__cover/lead__cover.css);
 
 /** intro **/
 @import url(../blocks/intro/intro.css);
