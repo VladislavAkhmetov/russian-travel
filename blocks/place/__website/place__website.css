@@ -1,19 +1,11 @@
 .place__website {
-  flex-direction: column;
-  display: flex;
-  justify-content: flex-end;
-  margin: 0;
+  align-self: end;
 }
 
-@media screen and (max-width: 740px) {
-  .place__website {
-    width: 288px;
-    margin: 0;
-  }
-}
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width:320px) {
   .place__website {
-    margin-left: 16px;
+      min-width: calc(100% - 16px*2);
+      margin: 0 auto;
   }
 }
